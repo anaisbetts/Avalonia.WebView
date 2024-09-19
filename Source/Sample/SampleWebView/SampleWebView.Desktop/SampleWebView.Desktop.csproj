@@ -12,6 +12,7 @@
 	<ItemGroup>
 		<PackageReference Include="Avalonia.Desktop" /> 
 		<PackageReference Include="AntDesign.Toolkit" /> 
+		<PackageReference Include="Microsoft.Extensions.FileProviders.Abstractions" /> 
 	</ItemGroup>
 
 	<ItemGroup>
